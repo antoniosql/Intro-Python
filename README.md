@@ -3,8 +3,8 @@
 
 # Introducción a Python
 
-Introducción a Python
-Limpieza y Preparación de Datos
-Análisis Exploratorio de Datos (EDA)
+- Introducción a Python
+- Limpieza y Preparación de Datos
+- Análisis Exploratorio de Datos (EDA)
 
 
