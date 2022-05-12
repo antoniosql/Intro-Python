@@ -5,7 +5,7 @@
 ## Requisitos técnicos
 Para poder reproducir las demostraciones e intentar los ejercicios es necesario que tengáis instalado en vuestro equipo:
 
-- Python [](https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20Python.md)
+- Python [Python](https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20Python.md)
 - Visual Studio Code
 - Extensión de Python para Visual Studio Code
 
