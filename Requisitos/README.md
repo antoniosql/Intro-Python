@@ -1,4 +1,4 @@
-![Verne](https://www.vernegroup.com/wp-content/uploads/2020/07/LOGO-VERNE-TECHNOLOGY-GROUP-3.png)
+![Verne](https://www.vernegroup.com/wp-content/uploads/2021/08/Image-1-1-1.png)
 
 # Requisitos para aprovechar el curso
 
