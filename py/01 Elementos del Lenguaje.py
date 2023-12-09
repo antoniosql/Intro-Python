@@ -30,7 +30,6 @@ print (otro_texto)
 
 #Trabajo con Cadenas
 
-# Trabajo con cadenas
 cadena_1 = "Esto es "
 cadena_2 = "una clase de Python"
 print (cadena_1 + cadena_2)
