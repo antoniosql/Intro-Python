@@ -6,8 +6,8 @@
 Para poder reproducir las demostraciones e intentar los ejercicios es necesario que tengáis instalado en vuestro equipo:
 
 - [Python](https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20Python.md)
-- [Visual Studio Code] (https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20Visual%20Studio%20Code.md)
-- [Extensión de Python para Visual Studio Code] (https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20el%20complemento%20de%20Python.md)
+- [Visual Studio Code](https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20Visual%20Studio%20Code.md)
+- [Extensión de Python para Visual Studio Code](https://github.com/antoniosql/Python_IFFE/blob/main/Requisitos/Instalar%20el%20complemento%20de%20Python.md)
 
 En caso de que no queráis instalar nada, podéis utilizar el entorno de Google Colaboratory https://colab.research.google.com/notebooks/welcome.ipynb en el que podréis guardar y ejecutar los notebooks jupyter. 
 

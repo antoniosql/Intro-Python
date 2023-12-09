@@ -3,7 +3,6 @@ Una vez disponemos de Python en nuestro equipo, nos ayudará mucho disponer de u
 Para instalar pip, primero debemos de descargarnos este fichero https://bootstrap.pypa.io/get-pip.py 
 Una vez descargado, debemos de ejecutar desde una consola: python get-pip.py 
 
-
-Ensure you have the latest pip and wheel with:
+Puedes comprobar que dispones de la última versión, ejecutando:
 
 python -m pip install --upgrade pip wheel setuptools
