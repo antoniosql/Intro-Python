@@ -1,4 +1,4 @@
-![Dataging](Python_IFFE\resources\Dataging.png)
+![Dataging](https://raw.githubusercontent.com/dataging/public-resources/61263724aea5476ba5ebf38478beada519091957/logodataging.png)
 # Markdown
 Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple. Nace como un lenguaje para facilitar la escritura de texto para la Web. No sustituye HTML, sino que podríamos decir que HTML es un formato de publicación mientras que Markdown es un formato de escritura. A día de hoy está soportado por muchos IDE, además de estar soportado de forma nativa por la mayor parte de soluciones SaaS, por lo que es un formato estándar para poder escribir texto en cualquier aplicación. 
 
