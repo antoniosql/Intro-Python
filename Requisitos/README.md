@@ -1,4 +1,4 @@
-![Verne](https://www.vernegroup.com/wp-content/uploads/2021/08/Image-1-1-1.png)
+![Dataging](https://raw.githubusercontent.com/dataging/public-resources/61263724aea5476ba5ebf38478beada519091957/logodataging.png)
 
 # Requisitos para aprovechar el curso
 
