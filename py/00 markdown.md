@@ -1,4 +1,4 @@
-![Verne](https://www.vernegroup.com/wp-content/uploads/2021/08/Image-1-1-1.png)
+![Dataging](Python_IFFE\resources\Dataging.png)
 # Markdown
 Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple. Nace como un lenguaje para facilitar la escritura de texto para la Web. No sustituye HTML, sino que podríamos decir que HTML es un formato de publicación mientras que Markdown es un formato de escritura. A día de hoy está soportado por muchos IDE, además de estar soportado de forma nativa por la mayor parte de soluciones SaaS, por lo que es un formato estándar para poder escribir texto en cualquier aplicación. 
 
