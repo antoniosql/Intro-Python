@@ -13,8 +13,8 @@ En caso de que no queráis instalar nada, podéis utilizar el entorno de Google 
 
 Si lo prefieres puedes ver este video con el paso a paso!
 
+[![alt text](https://img.youtube.com/vi/Oa_Zo8jtsTE/0.jpg)](https://www.youtube.com/watch?v=Oa_Zo8jtsTE)
 
-<video src="https://youtu.be/Oa_Zo8jtsTE?si=1_UDgsYbVTucDF6c" width="320" height="240" controls></video>
 
 ## Conocimientos necesarios
 
