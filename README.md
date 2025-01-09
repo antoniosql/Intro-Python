@@ -1,5 +1,5 @@
 
-<img src="https://github.com/antoniosql/Python_IFFE/blob/main/resources/logo_VerneGroup_color.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/dataging/public-resources/61263724aea5476ba5ebf38478beada519091957/logodataging.png" alt="drawing" width="200"/>
 
 # Introducción a Python
 
