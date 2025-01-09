@@ -15,6 +15,8 @@ Si lo prefieres puedes ver este video con el paso a paso!
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/video-id](https://youtu.be/Oa_Zo8jtsTE?si=1_UDgsYbVTucDF6c)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video src="https://youtu.be/Oa_Zo8jtsTE?si=1_UDgsYbVTucDF6c" width="320" height="240" controls></video>
+
 ## Conocimientos necesarios
 
 El curso parte de la base de que se dispone de experiencia trabajando con datos, ya sea utilizando Excel como herramienta de explotación, consultas SQL, o experiencia en desarrollo de aplicaciones backend. 
