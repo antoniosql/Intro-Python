@@ -7,4 +7,4 @@
 - Limpieza y Preparación de Datos
 - Análisis Exploratorio de Datos (EDA)
 
-Revisa los requisitos para poder ejecutar los ejemplos y aprovechar el curso adecuadamente!! https://github.com/antoniosql/Python_IFFE/tree/main/Requisitos
+Revisa los requisitos para poder ejecutar los ejemplos y aprovechar el curso adecuadamente!! [https://github.com/antoniosql/Python_IFFE/tree/main/Requisitos](https://github.com/antoniosql/Intro-Python/tree/main/Requisitos)
