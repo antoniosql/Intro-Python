@@ -15,6 +15,7 @@ Si lo prefieres puedes ver este video con el paso a paso!
 
 [![alt text](https://img.youtube.com/vi/Oa_Zo8jtsTE/0.jpg)](https://www.youtube.com/watch?v=Oa_Zo8jtsTE)
 
+Adicionalmente, para los ejemplos con datos, utilizaremos MySQL como motor de base de datos, y la base de datos de demostración Sakila
 
 ## Conocimientos necesarios
 
